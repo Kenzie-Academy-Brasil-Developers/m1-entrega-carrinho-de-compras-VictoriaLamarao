@@ -49,6 +49,15 @@ body {
   border-radius: 8px;
   color: white;
 }
+.produtos-itens2 {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(182, 182, 182);
+  border-radius: 8px;
+  color: black;
+}
 
 .produtos {
   display: flex;
